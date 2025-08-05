@@ -1,6 +1,4 @@
-# About-myself-
-Take a look at this README to know about me,
-[README.md](https://github.com/user-attachments/files/21601768/README.md)
+# About-myself
 <h1 align="center">Hi 👋, I'm Ali Ahmed</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
