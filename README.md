@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Habit Tracker App](https://github.com/alihahamed/Habit-tracker-app)
 
-- 🌱 I’m currently learning **Next.js and much more about databases!**
+- 🌱 I’m currently learning **React.js and much more about databases!**
 
 - 📫 How to reach me **aliahmedyus@gmail.com**
 
